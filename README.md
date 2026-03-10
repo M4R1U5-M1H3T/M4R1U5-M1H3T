@@ -23,7 +23,7 @@ Here are some of the projects I've worked on during my studies:
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Concurrent Toy Language Interpreter](https://github.com/M4R1U5-M1H3T/Concurrent-Toy-Language-Interpreter)** | A complex, multi-threaded interpreter with thread synchronization (Semaphores, Latches, Barriers, Locks) and an interactive GUI. | `Java` `JavaFX` `Concurrency` |
-| **[Connect Four AI](https://github.com/M4R1U5-M1H3T/Connect-Four)** | A classic game recreation featuring an intelligent AI opponent powered by the Minimax algorithm with Alpha-Beta pruning. | `Python` `PyGame` `AI` |
+| **[Connect Four AI](https://github.com/M4R1U5-M1H3T/Connect-Four)** | A classic game recreation featuring an intelligent AI opponent powered by the Minimax algorithm with Alpha-Beta pruning. | `Python` `PyGame` |
 | **[Tutorial Watchlist Manager](https://github.com/M4R1U5-M1H3T/Tutorial-Watchlist-Manager)** | A robust desktop app to manage programming tutorials using a layered architecture, dynamic memory, and multiple persistence methods. | `C++` `SQLite` `OOP` |
 | **[Student Management System](https://github.com/M4R1U5-M1H3T/Student-Management-System)** | A layered CLI application featuring complex CRUD operations, a Command-pattern Undo/Redo system, and various persistence strategies. | `Python` `Clean Architecture` |
 | **[Music World Desktop App](https://github.com/M4R1U5-M1H3T/Music-World)** | A Windows Forms application for managing and playing MP3 files with user authentication and dynamic file system isolation. | `C#` `.NET` `SQL` |
